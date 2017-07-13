@@ -13,7 +13,7 @@
   <packaging>pom</packaging>
   <name>PSUJavaSummer2017</name>
   <description>Source code written in the Summer 2017 offering of Advanced Programming with Java</description>
-  <url>http://davidwhitlock.github.io/PortlandStateJavaSummer2017</url>
+  <url>http://AdvancedProgrammingWithJavaSummer2017.github.io/PortlandStateJavaSummer2017</url>
 
   <modules>
     <module>airline</module>
@@ -29,7 +29,7 @@
   </organization>
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/DavidWhitlock/PortlandStateJavaSummer2017/issues</url>
+    <url>https://github.com/AdvancedProgrammingWithJavaSummer2017/PortlandStateJavaSummer2017/issues</url>
   </issueManagement>
   <licenses>
     <license>
@@ -53,7 +53,7 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git@github.com:DavidWhitlock/PortlandStateJavaSummer2017.git</connection>
+    <connection>scm:git:git@github.com:AdvancedProgrammingWithJavaSummer2017/PortlandStateJavaSummer2017.git</connection>
   </scm>
   <properties>
     <github.global.server>github</github.global.server>
@@ -100,7 +100,7 @@
     <site>
       <id>gh-pages</id>
       <name>Trajano GitHub Pages</name>
-      <url>github:http://davidwhitlock.github.io/PortlandStateJavaSummer2017/</url>
+      <url>github:http://AdvancedProgrammingWithJavaSummer2017.github.io/PortlandStateJavaSummer2017/</url>
     </site>
   </distributionManagement>
 </project>
