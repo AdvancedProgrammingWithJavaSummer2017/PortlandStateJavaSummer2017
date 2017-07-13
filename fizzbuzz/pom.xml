@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <parent>
-    <artifactId>PortlandStateJavaSummer2017</artifactId>
+    <artifactId>CS410J</artifactId>
     <groupId>edu.pdx.cs410J</groupId>
     <version>Summer2017</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>edu.pdx.cs410J.whitlock</groupId>
-  <artifactId>airline</artifactId>
+  <groupId>edu.pdx.cs410J.fizzbuzz</groupId>
+  <artifactId>fizzbuzz</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>CS410J Airline Project</name>
-  <description>An Airline application for CS410J at Portland State University</description>
-  <inceptionYear>2000</inceptionYear>
+  <version>Summer2017</version>
+  <name>FizzBuzz Kata</name>
+  <description>A code kata for FizzBuzz</description>
+  <inceptionYear>2017</inceptionYear>
   <url>http://www.cs.pdx.edu/~whitlock</url>
   <developers>
     <developer>
@@ -72,7 +72,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>edu.pdx.cs410J.whitlock.Project1</mainClass>
+              <mainClass>edu.pdx.cs410J.fizzbuzz.FizzBuzzMain</mainClass>
             </manifest>
           </archive>
         </configuration>
